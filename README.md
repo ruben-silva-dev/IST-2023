@@ -30,6 +30,7 @@ qualidade do código e resolver conflitos durante a RC, mesmo com a implementaç
 |-------------------------------------------|----------------------------------------------------------|
 | [Mining tool](artefatos/mining-tool.zip)  | Ferramenta utilizada para coletar as métricas de IC e RC |
 | [Correlações](artefatos/correlations.ods) | Dados gerais das correlações encontradas                 |
+| [Grupo focal](artefatos/focus-group.pdf)  | Dados da aplicação do grupo focal                        |
 | [Dados gerais](artefatos/general)         | Arquivos das métricas para todos os projetos             |
 | [Dados do projeto 22](artefatos/22)       | Arquivos das métricas para todos o projeto 22            |
 | [Dados do projeto 26](artefatos/26)       | Arquivos das métricas para todos o projeto 26            |
